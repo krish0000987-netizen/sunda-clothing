@@ -1,0 +1,10 @@
+{
+  "description": "Shop a business’s products online with an easy-to-use storefront for browsing items, discovering offers, and completing purchases.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
